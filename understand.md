@@ -15,7 +15,7 @@
 # __this one is a bold heading using underscore__
 ## **this is a bold subheading using asterisk**
 
-<!--If you are familiar with whatsapp strikethrough(simple cut to a text ) which use tilde sign( ~ ...this one ) then you can get easily familiar with md strike through .This strikethrough use double tlde sign-->
+<!--If you are familiar with whatsapp strikethrough(simple cut to a text ) which use tilde sign( ~ ...this one ) then you can get easily familiar with md strike through .This     strikethrough use double tlde sign-->
 
 # ~~single~~ double(~~ text ~~) tilde sign
 <!--for horizontal rule or a seperator we use three underscore(___) or three hyphens(---)-->

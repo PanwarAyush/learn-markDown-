@@ -32,6 +32,14 @@ ___
 
 ___
 > ## [this is the link name](https://thisMayBeThelinkDomainName "double quotations adds the value by giving the title ." )
+<!--to make an inline link open in a new tab , we have to  use the syntax{:target="blank"}
+[Text to display](link){:target="_blank"}-->
+---
+<!--mailto is used to avoid creating broken  link of email--> 
+ 
+ > [example@gmail.com](mailto:example@gmail.com)
+
+  [Another text]
 
 ---
 <!-- ok so next we have list , its concept is same as of html list 
@@ -42,18 +50,20 @@ ___
  1. is  
  1. ordered
 ---
-<!-- unordered list-->
+<!-- unordered list( we an use hypen too)-->
 * this 
   * is  
     * unordered 
        * sublist  
   ---
+
+  ---
   <!--if want to display an inline code or put the code stuff inside the inline code block then we have to use backticks(``). You can get the backtick below escape button -->
   `  <p> inserted a p tag <p> `
 ___
-<!--The way  to insert image to the md file is similar to inserting link, here instead of just using square brackets and round backets we use an exclamation mark behind the square bracket-->
+<!--The way  to insert image to the md file is similar to inserting link, here instead of just using square brackets and round backets we use an exclamation mark behind the square bracket.Caption to the image can be added using asterisk.-->
 
- ![Markdown logo](https://markdown-here.com/img/icon256.png)
+ ![Markdown logo](https://markdown-here.com/img/icon256.png )*caption to the image*
 
  ---
  <!-- Now its time for explanation of  github markdown -->
@@ -91,3 +101,19 @@ def add(x,y):
 * [x] task 1
 * [x] task 2
 * [ ] task 3
+---
+<!-- We can even use <br> tag to break through lines.-->
+> hello <br>world
+---
+<!--the way to insert video is to or for github just drop the link in the markdown-->
+[![Little red riding hood](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/StTqXEQ2l-Y)
+
+---
+<!--We can put subscript using $ at the begginng and at the end and including caret( ^ ) for superscript and tilde (~ ) for subscript  --> 
+<!--superscript example-->
+> ## $ (a+b)^2 :arrow_forward: a^2 +b^2 +2ab$.
+> ## $ CH_4+2O_2 :arrow_right: CO_2 + 2H_2O$
+---
+<!--To insert emoji we can copy and paste them or use double colon with emoji code,ex-> :arrow_up: -->
+# :airplane: :rocket: :fountain:  :rainbow: :tokyo_tower:  
+___

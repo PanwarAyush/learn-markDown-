@@ -244,9 +244,13 @@ Double headed arrow (↔): &harr;-->
 ---
 # Recent Projects 👨‍💻
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanwarAyush&repo=TributeWebPage&show_icons=true&theme=great-gatsby"> 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PanwarAyush&repo=TributeWebPage&show_icons=true&theme=great-gatsby"> <br>
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=PanwarAyush&repo=technical-documentation
 &show_icons=true&theme=great-gatsby"> 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=PanwarAyush&repo=learn-markDown-
 &show_icons=true&theme=great-gatsby">
 

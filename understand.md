@@ -253,7 +253,7 @@ Double headed arrow (↔): &harr;-->
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=PanwarAyush&repo=learn-markDown-
 &show_icons=true&theme=great-gatsby">
-
+</div>
 <!--A snake eating github contributions can also be included using this api link-->
 
 ![](https://raw.githubusercontent.com/kothariji/kothariji/d043318518985faa1d2e58a7b594aa7033a388ee/github-user-contribution.svg)

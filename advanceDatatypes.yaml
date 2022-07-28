@@ -1,0 +1,60 @@
+student: !!seq
+ - marks
+ - name
+ - roll_no
+
+# like this also
+cities: [new delhi, mumbai]
+
+# some of the keys of the seq will be empty
+# sparse seq
+spare seq:
+- hey
+- how 
+- Null 
+- sup
+
+# nested sequence 
+- 
+ - mango
+ - apple
+ - banana
+- 
+ - marks
+ - roll num
+ - date
+
+ # key: value pairs are called maps
+ !!map
+
+ # nested mapping: map within an map
+ name: ayush panwar
+ role: { age: 78, job: student}
+
+ # pairs keys may have duplicate values
+ # !!pairs
+ 
+ pair example : !!pairs
+  - job: student
+  - job: teacher
+ 
+ # this will be an array of hashtables
+ 
+ # !!set will allow you to have unique values
+  
+ names: !!set
+ ? Kunal
+ ? Apprav
+ ? Rahul
+
+ #dictionary !!omap
+ people: !!omap
+  - Kunal: 
+      name: Kunal Kushwaha
+      age: 78
+      height: 3542
+  - Rahul: 
+      name: Rahul 
+      age: 58
+      height: 234
+

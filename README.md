@@ -20,5 +20,11 @@
  PARSER: yaml lint
  
  
+ Resources:
+
  
- 
+➡️ Resources:
+* [lens](https://k8slens.dev/?utm_source=CloudNativeHackathon&utm_medium=Youtube&utm_campaign=DevOpsBoot)
+* [Monokle](https://github.com/kubeshop/monokle?utm_medium=partner&utm_source=commclassroom&utm_campaign=kunal)
+* [Datree](https://datree.io/?utm_source=youtube&utm_medium=influencer&utm_campaign=kunal)
+* [How to validate Kubernetes YAML files](https://itnext.io/how-to-validate-kubernetes-yaml-files-9a17b9a30f08)
